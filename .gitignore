@@ -25,3 +25,7 @@ venv/
 *.tmp
 *.bak
 .cache/
+
+# Claude Code
+CLAUDE.md
+.claude/
