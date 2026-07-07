@@ -29,3 +29,5 @@ venv/
 # Claude Code
 CLAUDE.md
 .claude/
+# PDFs are generated output (pandoc/weasyprint) — regenerate as needed
+*.pdf
